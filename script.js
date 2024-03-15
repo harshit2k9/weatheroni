@@ -32,10 +32,10 @@ submit.addEventListener("click", (e) => {
 
 info.addEventListener("click", (e) => {
   e.preventDefault()
-  open("/info.html", "self")
+  open("/weatheroni/info.html", "self")
 })
 
 feedback.addEventListener("click", (e) => {
   e.preventDefault()
-  open("/info.html", "self")
+  open("/weatheroni/info.html", "self")
 })
